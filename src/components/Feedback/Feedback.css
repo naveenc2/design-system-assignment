@@ -1,0 +1,21 @@
+.feedback {
+  padding: 10px;
+  border-radius: 4px;
+  margin: 8px 0;
+  font-size: 14px;
+}
+
+.feedback-info {
+  background-color: #e7f3fe;
+  color: #3178c6;
+}
+
+.feedback-success {
+  background-color: #e6f4ea;
+  color: #2e7d32;
+}
+
+.feedback-error {
+  background-color: #fdecea;
+  color: #d32f2f;
+}
